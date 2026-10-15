@@ -1,0 +1,9 @@
+* text=auto
+
+# Sample inputs are binary files and must never be touched by line-ending conversion
+*.pam     binary
+*.pgm     binary
+*.bin     binary
+*.torrent binary
+*.qoa     binary
+*.wav     binary

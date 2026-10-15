@@ -1,0 +1,20 @@
+# Build output
+build/
+out/
+cmake-build-*/
+CMakeUserPresets.json
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+*.vcxproj.user
+*.suo
+
+# Files produced by running the programs
+*.mlt
+*.hd
+*.wav
+*_out.txt
+*_output.pam
+adam7/*_[0-9].pgm
